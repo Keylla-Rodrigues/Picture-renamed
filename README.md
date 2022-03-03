@@ -1,2 +1,2 @@
 # Picture-renamed
-Take pictures and rename them
+To take images and rename them following a format: Photo_1.jpg
